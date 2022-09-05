@@ -1,15 +1,15 @@
 <h1 align="center" style="margin-top: 0px;">ESTIMATE THE CROP YIELD USING DATA ANALYTICS</h1>
 
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="/Users/v.krishnan/Downloads/corn.jpeg" alt="crop logo" align="center">
+  <img width="400" src="http://s3-wp-lyleprintingandp.netdna-ssl.com/wp-content/uploads/2016/09/22050023/corn-1680649_1280-e1568234488419.jpg" alt="crop logo" align="center">
 </p>
 
-<h3>Team - 31<h3>
+<h4>Team - 31</h4>
 
-Shravanth E - 19BCS021 <br />
-Veena K - 19BCS029 <br />
-Tharun Kumar S - 19BCS051 <br />
-Ajay Kumar S - 19BCS054 <br />
+Shravanth E      - 19BCS021 <br />
+Veena K          - 19BCS029 <br />
+Tharun Kumar S   - 19BCS051 <br />
+Ajay Kumar S     - 19BCS054 <br />
 Dinesh Kumar P K - 19BCS056 <br />
 
 Tool used - IBM Cognos Analytics <br />
