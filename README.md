@@ -1,6 +1,10 @@
-ESTIMATE THE CROP YIELD USING DATA ANALYTICS
+<h1 align="center" style="margin-top: 0px;">ESTIMATE THE CROP YIELD USING DATA ANALYTICS</h1>
 
-Team - 31
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="200" src="/Users/v.krishnan/Downloads/corn.jpeg" alt="crop logo" align="center">
+</p>
+
+<h3>Team - 31<h3>
 
 Shravanth E - 19BCS021
 Veena K - 19BCS029
