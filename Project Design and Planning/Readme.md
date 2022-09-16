@@ -1,0 +1,1 @@
+This folder contains al the files regarding Project design and ideation phase documents.
